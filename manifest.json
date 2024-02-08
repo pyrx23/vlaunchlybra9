@@ -1,0 +1,15 @@
+{
+  "short_name": "VLaunch",
+  "name": "The Influencer-Backed Crypto Launchpad",
+  "icons": [
+    {
+      "src": "/vlaunch-logo-big.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
